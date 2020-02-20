@@ -1,0 +1,36 @@
+{
+  "naam": "Applicatieprofiel Persoon basis",
+  "verantwoordelijke organisatie": "Agentschap Informatie Vlaanderen",
+  "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO002949",
+  "publicatiedatum": "TBD",
+  "type_toepassing": "",
+  "categorie": "Vocabularium & applicatieprofielen",
+  "specificatiedocument": [
+    {
+      "naam": "Applicatieprofiel Persoon basis",
+      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/persoon-basis/"
+    }
+  ],
+  "documentatie": [],
+  "verslagen_en_charter": [
+    {
+      "naam": "Werkgroep Charter OSLO Persoon",
+      "waarde": "./charter/Werkgroep Charter - OSLO Persoon.docx"
+    },
+    {
+      "naam": "Verslag 1",
+      "waarde": "./verslagen/Verslag TWG1 Persoon 12012017.docx"
+    }
+  ],
+  "presentaties": [
+    {
+      "naam" : "Publieke werkgroep 1",
+      "waarde" : "./presentaties/OsloPersoonPubliekeWerkgroep20170112.pptx"
+    }
+  ],
+  "functioneel_toepassingsgebied": "bla bla bla",
+  "organisatorisch_werkingsgebied": "bla abla",
+  "datum_van_aanmelding": "TBD",
+  "erkenning_werkgroep_datastandaarden": "TBD",
+  "erkenning_stuurgroep": "TBD"
+}
